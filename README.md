@@ -11,4 +11,5 @@ Verse Rush is a Bible verse game made with Unity. The verse is first displayed f
 # Download
 
 Current Supported Versions: Mac & Windows
+
 [Download Here](https://drive.google.com/drive/u/1/folders/1QqvtkIsI26m6TRhDs9sqzmGnSZJ8FD6J)
