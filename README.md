@@ -11,9 +11,11 @@ Verse Rush is a Bible verse game made with Unity. A verse is first displayed for
 * Player count: 2-20 players
 * Input custom verses
 * Adjust the time to memorize in the beginning
+* Option to force all words to become blanks when the game starts
+* Progress bar to track how much longer it will take for you to complete the verse
 
 ## Download
 
 Current Supported Versions: Mac & Windows
 
-[Download Here](https://drive.google.com/drive/u/1/folders/1QqvtkIsI26m6TRhDs9sqzmGnSZJ8FD6J)
+[**Download Here**](https://drive.google.com/drive/u/1/folders/1QqvtkIsI26m6TRhDs9sqzmGnSZJ8FD6J)
